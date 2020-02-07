@@ -1,0 +1,51 @@
+.orange{
+    background-color:orange !important;
+    color:white;
+}
+.p1{
+    background:#DB5ABA;
+}
+
+.p2{
+    font-size:2em;
+}
+.pink{
+    background-color:#EE4B6A;
+    color:white;
+}
+.display-3{
+    font-family:Courgette;
+    background-image:url("Resources/flowerbackground.jpg") ;
+    color:purple;
+     }
+.imgc{
+    width:30%;
+    height:30%;
+    float:left;
+    margin:1rem;
+}
+.magenta{
+     background-color:rgb(161,74,118) !important;
+    
+     color:white;
+}
+@media(max-width:500px){
+     #myid{
+         display:none;
+     }
+
+}
+
+.myfooter{
+    position:fixed;
+    bottom:0;
+    left:0;
+    padding:10px;
+    height:50px;
+    width:100%;
+    color:white;
+    background-color:blueviolet;
+    text-align:center;
+    font-size:2em;
+}
+
